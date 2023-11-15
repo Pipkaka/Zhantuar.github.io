@@ -1,0 +1,29 @@
+ body { 
+    background: url(rectangle.png);
+    background-size: 10%;
+
+    background-repeat: no-repeat;
+    background-color: rgb(45, 45, 45); 
+} 
+.oven{
+  color: aliceblue;
+  transition-duration: 2s;
+}
+.oven:hover{
+  color:bisque;
+  transition-duration: 2s;
+}
+.text3{
+  color: aliceblue;
+}
+.text3:hover{
+  color: aquamarine;
+  transition-duration: 2s;
+}
+.txet3{
+  color: aliceblue;
+}
+.txet3:hover{
+  color: aquamarine;
+  transition-duration: 2s;
+}
